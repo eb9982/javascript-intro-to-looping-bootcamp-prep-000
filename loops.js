@@ -9,6 +9,5 @@ function forLoop(array) {
       array.push(`I am ${i} strange loops.`)
     }
   }
-  t=25
-  return [array,t]
+  return [array]
 }

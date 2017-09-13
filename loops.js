@@ -2,7 +2,7 @@ function whileLoop(n) {
   while (n>0){
     console.log(--n)
   }
-  if (x==0){
+  if (n==0){
     return 'done'
   }
 }
